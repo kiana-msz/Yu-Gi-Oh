@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="fxml">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/main/resources/fxml.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
