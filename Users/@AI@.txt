@@ -1,0 +1,5 @@
+@AI@
+1234AIPlayer1234
+AIPlayer
+6000
+154400
